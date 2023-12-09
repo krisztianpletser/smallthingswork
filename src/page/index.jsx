@@ -1,5 +1,5 @@
 import React from "react";
-import "./index.css";
+import "./index.css"; 
 
 export default function Main() {
   return (
@@ -101,8 +101,7 @@ export default function Main() {
                 <div className="w-[288.71px] h-[60.465px] relative z-[47] mt-[5.5px] mr-0 mb-0 ml-[0.14px]"></div>
                 <div className="w-[289px] h-[60.466px] relative z-[48] mt-[4.074px] mr-0 mb-0 ml-0"></div>
               </div>
-              <div className="w-[6.69%] h-[15.75%] bg-[url(../assets/images/5ff776b0-5e23-4885-b4a4-d7edf12971ee.png)] bg-[length:100%_100%] bg-no-repeat absolute top-[73.75%] left-[7.04%] z-[51]" />
-            </div>
+              </div>
             <div className="flex w-[568px] flex-col justify-center items-start self-stretch shrink-0 flex-nowrap relative z-[52]">
               <div className="flex w-[568px] flex-col gap-[24px] justify-center items-start shrink-0 flex-nowrap relative z-[53]">
                 <div className="flex flex-col gap-[16px] justify-center items-start self-stretch shrink-0 flex-nowrap relative z-[54]">
@@ -357,18 +356,11 @@ export default function Main() {
               <div className="w-[142.857px] h-[40px] shrink-0 bg-[url(../assets/images/cetera.png)] bg-[length:100%_100%] bg-no-repeat relative z-[198]" />
               <div className="w-[157.902px] h-[23.137px] shrink-0 bg-[url(../assets/images/jdpower.png)] bg-cover bg-no-repeat relative z-[199]" />
               <div className="w-[157.902px] h-[23.137px] shrink-0 bg-[url(../assets/images/jdpower.png)] bg-cover bg-no-repeat relative z-[200]" />
-              <div className="w-[121.35px] h-[32.007px] shrink-0 bg-[url(../assets/images/93610ae1-864f-45c3-8640-47e993590151.png)] bg-cover bg-no-repeat relative z-[201]" />
               </div>
           </div>
         </div>
         <div className="w-[1440px] h-[836px] shrink-0 bg-[#bfe9eb] relative overflow-hidden z-[203]">
           <div className="w-[1440px] h-[856px] bg-[url(../assets/images/5d185faa-00f5-41a0-9567-3f460cdcc8c0.png)] bg-cover bg-no-repeat absolute top-[-20px] left-0 z-[820]">
-            <div className="w-[1469px] h-[775.497px] absolute top-1/2 left-1/2 translate-x-[-49.97%] translate-y-[-56.87%] z-[204]">
-              <div className="w-[1469px] h-[255.497px] relative z-[533] mt-0 mr-0 mb-0 ml-0">
-                <div className="w-[289px] h-[255.497px] absolute top-0 left-0 z-[205]">
-                  </div>
-                  </div>
-                  </div>
             <div className="w-[1440px] h-[203px] absolute top-[20px] left-1/2 translate-x-[-50%] translate-y-0 overflow-hidden z-[821]">
               <div className="flex w-[337px] flex-col gap-[4px] items-center flex-nowrap relative z-[822] mt-[80px] mr-0 mb-0 ml-[551px]">
                 <span className="h-[24px] shrink-0 basis-auto font-['Poppins'] text-[16px] font-semibold leading-[24px] text-[#71226a] relative text-left z-[823]">
@@ -485,13 +477,6 @@ export default function Main() {
               <div className="flex w-[379.113px] h-[83.158px] gap-[14.463px] items-start flex-nowrap bg-[url(../assets/images/4c50db9f-c651-46b5-a3a4-f84abc1558e4.png)] bg-cover bg-no-repeat relative overflow-hidden z-[861] mt-[168px] mr-0 mb-0 ml-[316px]" />
             </div>
             <div className="h-[388px] grow shrink-0 basis-0 bg-[#fff] relative overflow-hidden z-[862]">
-              <div className="flex w-[98px] gap-[-27px] items-center flex-nowrap opacity-0 relative z-[865] mt-[98px] mr-0 mb-0 ml-[242px]">
-                <div className="w-[48px] h-[48px] shrink-0 bg-[url(../assets/images/c0c18ad4-c0fc-48d6-b834-555794ad087f.png)] bg-[length:100%_100%] bg-no-repeat rounded-[60px] border-solid border-2 border-[#fff] relative overflow-hidden shadow-[0_4px_24px_0_rgba(116,25,99,0.2)] z-[866]" />
-                <div className="w-[56px] h-[56px] shrink-0 bg-[#f0ece6] rounded-[60px] border-solid border-2 border-[#fff] relative overflow-hidden shadow-[0_4px_20px_0_rgba(116,25,99,0.1)] z-[868]">
-                  <div className="w-[50.4px] h-[50.4px] bg-[url(../assets/images/32839cc1-a55b-4def-bc1e-02950708f7ac.png)] bg-[length:100%_100%] bg-no-repeat relative z-[869] mt-[7.28px] mr-0 mb-0 ml-[2.8px]" />
-                </div>
-                <div className="w-[48px] h-[48px] shrink-0 bg-[url(../assets/images/da6a7349-776b-4feb-b46e-acbe472b8a86.png)] bg-[length:100%_100%] bg-no-repeat rounded-[60px] border-solid border-2 border-[#fff] relative overflow-hidden shadow-[0_4px_24px_0_rgba(116,25,99,0.2)] z-[870]" />
-              </div>
               <div className="w-[287px] h-[60px] relative z-[864] mt-[10px] mr-0 mb-0 ml-[157.5px]">
                 <span className="h-[60px] font-['Poppins'] text-[40px] font-medium leading-[60px] text-[#000] absolute top-[calc(50%-30px)] left-[calc(50%-143.5px)] text-center z-[864]">
                   Book a demo
@@ -505,7 +490,6 @@ export default function Main() {
         </div>
         <div className="w-[1440px] h-[610px] shrink-0 bg-[#31002f] relative overflow-hidden z-[872]">
           <div className="flex w-[438px] h-[797px] flex-col gap-[24px] items-start flex-nowrap absolute top-[-222px] left-[740px] z-[889]">
-            <div className="w-[435px] h-[270px] shrink-0 bg-[url(../assets/images/79fcfb80-b43e-4e3b-a406-ca1ba7e2f144.png)] bg-cover bg-no-repeat rounded-[16px] relative overflow-hidden z-[890]" />
             <div className="flex w-[438px] gap-[24px] items-center shrink-0 flex-nowrap relative z-[891]">
               <div className="w-[350px] h-[205px] shrink-0 bg-[#fff] rounded-[16px] relative overflow-hidden shadow-[0_4px_24px_0_rgba(116,25,99,0.11)] z-[892]">
                 <div className="w-[342px] h-[203px] rounded-[13px] relative overflow-hidden z-[893] mt-[3.5px] mr-0 mb-0 ml-[4px]">
@@ -601,7 +585,6 @@ export default function Main() {
               </div>
               <div className="flex w-[160px] flex-col gap-[16px] items-start shrink-0 flex-nowrap relative z-[1543]">
                 <span className="h-[24px] shrink-0 basis-auto font-['Poppins'] text-[16px] font-semibold leading-[24px] text-[#5fc7cc] relative text-left z-[1544]">
-                  Solutions
                 </span>
                 <div className="flex w-[66px] flex-col gap-[12px] items-start shrink-0 flex-nowrap relative z-[1545]">
                   <div className="w-[66px] h-[21px] shrink-0 relative z-[1546]">
