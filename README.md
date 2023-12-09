@@ -1,6 +1,4 @@
 # SmallThings Test Work
-SmallThings Frontend Work
-
 How to Run the Code?
 Follow these steps to get Smallthingswork up and running on your machine!
 
