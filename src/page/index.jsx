@@ -479,7 +479,7 @@ export default function Main() {
                   Learn more
                 </span>
                 <span className="h-[48px] shrink-0 font-['Font_Awesome_5_Pro'] text-[32px] font-normal opacity-0 leading-[48px] text-[#fff] relative text-left z-[859]">
-                  arrow-Right
+                  arrow-right
                 </span>
               </div>
               <div className="flex w-[379.113px] h-[83.158px] gap-[14.463px] items-start flex-nowrap bg-[url(../assets/images/4c50db9f-c651-46b5-a3a4-f84abc1558e4.png)] bg-cover bg-no-repeat relative overflow-hidden z-[861] mt-[168px] mr-0 mb-0 ml-[316px]" />
@@ -497,7 +497,7 @@ export default function Main() {
                   Book a demo
                 </span>
                 <span className="h-[48px] font-['Font_Awesome_5_Pro'] text-[32px] font-normal opacity-0 leading-[48px] text-[#741963] absolute top-[8px] left-[calc(50%--115.5px)] text-left z-[863]">
-                  arrow-Right
+                  arrow-right
                 </span>
               </div>
             </div>
@@ -545,7 +545,7 @@ export default function Main() {
                     &nbsp;started&nbsp;
                   </span>
                   <span className="font-['Poppins'] text-[40px] font-bold leading-[48px] text-[#fff] relative text-left">
-                    Today
+                    today
                   </span>
                 </div>
                 <span className="w-[568px] h-[84px] self-stretch shrink-0 font-['Poppins'] text-[17px] font-light leading-[28px] text-[#fff] relative text-left z-[876]">
